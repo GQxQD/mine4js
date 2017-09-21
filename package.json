@@ -1,0 +1,10 @@
+{
+  "name": "mine4js",
+  "version": "0.0.1",
+  "author": "GQxQD鱼籽<kohaiyzp@gmail.com>",
+  "description": "JavaScript版 扫雷",
+  "dependencies": {
+    "normalize.css": "^7.0.0",
+    "jquery": "^3.2.1"
+  }
+}
